@@ -267,3 +267,11 @@ body {
 .content > *:last-child {
   margin-bottom: 0;
 }
+.hero-content .ev-next {
+  max-width: 672px;
+  
+}
+.container .video-blockquote {
+  display:inline;
+  text-align: left;
+}
